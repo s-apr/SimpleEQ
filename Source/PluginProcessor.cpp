@@ -155,6 +155,7 @@ void SimpleEQAudioProcessor::processBlock (juce::AudioBuffer<float>& buffer, juc
         auto* channelData = buffer.getWritePointer (channel);
 
         // ..do something to the data...
+            //actual audio data
     }
 }
 
