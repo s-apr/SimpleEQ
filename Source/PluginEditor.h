@@ -22,8 +22,7 @@ struct CustomRotarySlider : juce::Slider
 
 };
 //==============================================================================
-/**
-*/
+
 class SimpleEQAudioProcessorEditor  : public juce::AudioProcessorEditor
 {
 public:
